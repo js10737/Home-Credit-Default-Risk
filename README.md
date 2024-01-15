@@ -7,11 +7,9 @@ This project aims to predict the repayment abilities of potential borrowers usin
 Data Description
 The dataset contains several files representing different sources of data:
 
-Application Records: Information from the loan applications.
-
-Bureau Data: Data from other financial institutions reported to a credit bureau.
-
-Previous Applications: Historical data of previous loan applications at Home Credit.
+1. Application Records: Information from the loan applications.
+2. Bureau Data: Data from other financial institutions reported to a credit bureau.
+3. Previous Applications: Historical data of previous loan applications at Home Credit.
 
 All data files are in CSV format and can be loaded using Pandas.
 
